@@ -1,0 +1,5 @@
+.env.development
+/backend/node_modules
+/frontend-next/node_modules
+/frontend-next/build
+/frontend-next/.next/
